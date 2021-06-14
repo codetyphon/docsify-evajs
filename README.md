@@ -73,4 +73,4 @@ game.scene.addChild(image);
 
 ````
 
-Demo：[https://codetyphon.github.io/learn-evajs](https://codetyphon.github.io/learn-evajs)
+Demo：[https://codetyphon.github.io/learn-evajs/](https://codetyphon.github.io/learn-evajs/)
